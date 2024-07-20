@@ -7,7 +7,9 @@
   }
   
   body {
-	background: #f6f9fc;
+	background-image: url(https://st2.depositphotos.com/2370557/6296/i/950/depositphotos_62960563-stock-photo-background-with-red-hearts.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
 	font-family: "Open Sans", sans-serif;
 	color: #525f7f;
   }
